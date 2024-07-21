@@ -55,8 +55,7 @@ The analysis reveals that survival on the Titanic was significantly influenced b
 ## Repository Structure
 
 - `Titanic_analysis.ipynb`: Jupyter notebook containing the analysis.
-- `data/`: Directory containing the Titanic dataset.
-- `results/`: Directory containing the analysis results and visualizations.
+- 'Report analysis.pdf': PDF file containing the report analysis.
 
 ## References
 
